@@ -1,0 +1,194 @@
+id: f54a4178c24840eb8ec0328ed325b98f
+annotation_type: Language
+revision: '00001'
+annotations:
+  6ba242b6de874e0a9d62710e2d9c284c:
+    span:
+      start: 40
+      end: 166
+    language: en
+  8f79839d5ef44105b9f262f1eb9c3de5:
+    span:
+      start: 265
+      end: 350
+    language: en
+  4240bae9af63448cb8abe5ae0ee66457:
+    span:
+      start: 444
+      end: 1245
+    language: en
+  425d7d1cb2ab42f698dbb47500cbd98f:
+    span:
+      start: 1266
+      end: 1953
+    language: en
+  a66f269c1dc1419eafe1c145955852d5:
+    span:
+      start: 1987
+      end: 2751
+    language: en
+  2d65e1af921a49ec998c7d732e7f933d:
+    span:
+      start: 32314
+      end: 32435
+    language: en
+  fd794c618ed34d0f8d0e14d0fc8f205d:
+    span:
+      start: 70345
+      end: 70508
+    language: en
+  f26cda4995834c249f098d283665723e:
+    span:
+      start: 78435
+      end: 78578
+    language: en
+  a6254ffdd8884e51a222824eb0972e6a:
+    span:
+      start: 78872
+      end: 78999
+    language: en
+  3603cb3105b04a4c89ee9662c31f1986:
+    span:
+      start: 93460
+      end: 93609
+    language: en
+  54db89f8f15449fd8b00cd2a2d18ccc4:
+    span:
+      start: 111373
+      end: 111526
+    language: en
+  b4c3f8dcafb44620992d58d5e2301f04:
+    span:
+      start: 148321
+      end: 148469
+    language: en
+  73647755df95446287e08463175dff6e:
+    span:
+      start: 159328
+      end: 159474
+    language: en
+  4e50d8cf85c74e16adb25ac9bd40a62a:
+    span:
+      start: 159900
+      end: 160038
+    language: en
+  08f651bf1e6a481982378f1970b63202:
+    span:
+      start: 186247
+      end: 186385
+    language: en
+  b7774255c296458da2823a7911a73e3b:
+    span:
+      start: 189897
+      end: 190025
+    language: en
+  cdbe1490055f4022b38df7a8a61da664:
+    span:
+      start: 204444
+      end: 204575
+    language: en
+  80e4e711d69e4e2b958a446bc6aeebdb:
+    span:
+      start: 222813
+      end: 222943
+    language: en
+  fad066cfe2e146049e62cf89407fe6cb:
+    span:
+      start: 226664
+      end: 226819
+    language: en
+  0841e3ca3ac740d8b79bfa20d2cef793:
+    span:
+      start: 243608
+      end: 243774
+    language: en
+  e810e154ef494d1fa89220d6e42700a2:
+    span:
+      start: 264284
+      end: 264441
+    language: en
+  0bfc0bad647c41a9aad81a72416fc899:
+    span:
+      start: 273423
+      end: 273565
+    language: en
+  eb09893da06f4e9fa999f18af474fffe:
+    span:
+      start: 312056
+      end: 312191
+    language: en
+  0e6426bed81142d4a61251bf90c771e1:
+    span:
+      start: 317277
+      end: 317397
+    language: en
+  b7f5f720198649eb8118c6a540ec8f67:
+    span:
+      start: 352859
+      end: 353004
+    language: en
+  a9bc88b51f2b48e9b29b57e7f74fc76e:
+    span:
+      start: 357970
+      end: 358117
+    language: en
+  f69ce43c640c4a418704547ad19be5ce:
+    span:
+      start: 363195
+      end: 363326
+    language: en
+  e5f12e3f4c774a3d90f8663283f51ec5:
+    span:
+      start: 365252
+      end: 365405
+    language: en
+  fadc7ca42f7d4b5b922be4af9761605b:
+    span:
+      start: 366468
+      end: 366613
+    language: en
+  cdf613c0b0074f9b8c7d2d7816318d61:
+    span:
+      start: 381066
+      end: 381200
+    language: en
+  1b6e89b66da24fada28c0185876d0c7e:
+    span:
+      start: 398598
+      end: 398723
+    language: en
+  1873396ac2774122a0c41ebd6213997d:
+    span:
+      start: 405721
+      end: 405863
+    language: en
+  fd2f5bcf82c04c399536f60baffe77bb:
+    span:
+      start: 407497
+      end: 407645
+    language: en
+  f6632baf10d24c59b7ce49af7ef351b4:
+    span:
+      start: 474715
+      end: 474860
+    language: en
+  3a5048ffe86a4417beb9728d1c770d38:
+    span:
+      start: 515755
+      end: 515914
+    language: en
+  2902149bcb8f4fd98ca6099fa276a092:
+    span:
+      start: 529197
+      end: 529332
+    language: en
+  1e93e27e57764b77af176ac0aec73cb4:
+    span:
+      start: 579401
+      end: 579576
+    language: en
+  de8aedcdd4be4dc78baa8f6a5fb3df44:
+    span:
+      start: 593960
+      end: 594369
+    language: en
